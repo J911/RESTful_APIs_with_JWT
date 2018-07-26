@@ -1,5 +1,5 @@
 {
-  "name": "restful_api_with_jwt",
+  "name": "restful_apis_with_jwt",
   "version": "1.0.0",
   "description": "Securing Node.js RESTful APIs with JSON Web Tokens",
   "main": "index.js",
